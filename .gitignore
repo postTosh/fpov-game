@@ -1,0 +1,9 @@
+# Visual Studio Code files
+
+.vscode/
+
+# Python cache folder
+__pycache__/
+
+# Log files
+*.log
